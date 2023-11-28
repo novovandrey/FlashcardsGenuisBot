@@ -1,0 +1,1 @@
+Hello, \nthere is a some statistics:\nwords: words_count\nshown: shown_count\nguessed: guessed_count\npercentage:percentage_count%
